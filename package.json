@@ -14,9 +14,12 @@
     "@types/bootstrap": "^5.2.10",
     "@types/jquery": "^3.5.33",
     "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
     "jquery": "^3.7.1",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router-dom": "^7.8.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
